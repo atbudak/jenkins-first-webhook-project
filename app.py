@@ -1,1 +1,1 @@
-print('Hello World for Jenkins Job second commit')
+print('Hello World for Jenkins Job')
